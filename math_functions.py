@@ -1,4 +1,4 @@
-"""Module descriptions needs to be here"""
+"""Some useful math functions"""
 
 def sumNums(num1: float|int, num2: float|int) -> float:
     """Please, enter only nums!"""
