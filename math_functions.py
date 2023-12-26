@@ -1,4 +1,5 @@
-"""Module descriptions needs to be here"""
+"""Module created for using simple math operations by using simple functions
+Make sure that you`re writing the correct numbers, when using this functions."""
 
 def sumNums(num1: float|int, num2: float|int) -> float:
     """Please, enter only nums!"""
